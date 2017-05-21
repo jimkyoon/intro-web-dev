@@ -1,14 +1,27 @@
+<!-- the first line is an instruction to tell our browser we want this file to be read as a standard HTML document -->
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Jim's Profile</title>
-</head>
-<body>
-  <h1>Jim Yoon</h1>
-  <img src="http://imgur.com/a/Mf33V" alt="a picture should be here...">
-  <p>My name is Jim, and I like to code.</p>
-</body>
+<!-- everything between the html tags will be processed as the root and container for all other HTML elements -->
+<html>
+  <!-- the head tag is where all our title, description, meta-tags, and CSS/JS libraries that will be used -->
+  <head>
+    <!-- use the UTF-8 character set (Unicode) -->
+    <meta charset="utf-8">
+    <!-- title of our website/webpage (also shows up on the tab) -->
+    <title>Jim's Profile</title>
+    <!-- description and keyword meta helps for search engines -->
+    <meta name="description" content="A webpage for Jim's profile!">
+    <meta name="keywords" content="HTML, CSS, JavaScript, jQuery">
+    <!-- link an external stylesheet to this page -->
+    <link rel="stylesheet" href="./style.css">
+    <!-- script link for any JavaScript file and the CDN -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="./profile.js"></script>
+  </head>
+  <body>
+    <div id="container">
+      <h1>Jim Yoon</h1>
+      <img src="http://i.imgur.com/YPhKr1e.jpg" alt="a picture should be here...">
+      <p>My name is Jim, and I like to code.</p>
+    </div>
+  </body>
 </html>

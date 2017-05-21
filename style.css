@@ -1,0 +1,17 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: sans-serif;
+}
+#container{
+  margin: 0 auto;
+  padding: 10px;
+  border: 10px solid black;
+  width: 500px;
+  background-color: lightgrey;
+}
+img{
+  display: block;
+  margin: auto;
+  padding: 5px;
+}
