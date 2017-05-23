@@ -37,10 +37,10 @@ Now we get to HTTP Response. When the server receives the request from the clien
 
 # What can the browser read
 On the client side, the browser can only read 3 types of files. These files are:
-- HTML (HyperText Markup Language)
-- CSS (Cascading Style Sheets)
-- JavaScript
-The server must return these kind of files so the client can see.
+- HTML (HyperText Markup Language) - is the basic building block of a web page. This defines the content and structure of a page. Think of it as the skeleton of a body.
+- CSS (Cascading Style Sheets) - is a file that styles the look of the page. This can be the format, color, background, etc. Think of it as the skin of a body.
+- JavaScript - this is where logic, animation, content manipulation happen. Think of it as the muscles of the body.
+The server must return a combination of these files so the client can see.
 
 # A Basic Example of a User Requesting a Page
 Let's go over what happens when a typical user does on a daily basis.
