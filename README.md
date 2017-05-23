@@ -18,11 +18,11 @@ Here is an example: https://www.facebook.com/yourname
 
 There are parts to the URL.
 
-- The first part is the scheme or "https://" or "http://". HTTP stands for HyperText Transfer Protocol. This part determines how the browser will format, transmit and perform actions in. The "s" in "https" stands for Secure, which makes communication between clients and browsers encrypted.
+- The first part is the "scheme" or "https://" or "http://". HTTP stands for HyperText Transfer Protocol. This part determines how the browser will format, transmit and perform actions in. The "s" in "https" stands for Secure, which makes communication between clients and browsers encrypted.
 - The second part is "www." You know what this is! It stands for "World Wide Web." This tells it wants to look for a web server. 
-- The third part is the host or "facebook.com". This part identifies who holds the resource. 
-- The fourth part is the path or "/yourname." With this section, it tells the server what specific part we want from our request. 
-- There is a last optional part. This would be the query string. You usually see this if you were searching something. You can look at your browser's address bar while Googling something and you'd see this:
+- The third part is the "host" or "facebook.com". This part identifies who holds the resource. 
+- The fourth part is the "path" or "/yourname." With this section, it tells the server what specific part we want from our request. 
+- There is a last optional part. This would be the "query string." You usually see this if you were searching something. You can look at your browser's address bar while Googling something and you'd see this:
 Example: Google searched "dog" and the URL would be "https://www.google.com/search?q=dog&rlz=1C5CHFA_enUS702US702&oq=dog&aqs=chrome..69i57j35i39l2j0l3.821j0j8&sourceid=chrome&ie=UTF-8"
 
 # IP (Internet Protocol) Address
