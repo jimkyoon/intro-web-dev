@@ -2,6 +2,15 @@
 An introductory workshop for web development!
 by Jim Yoon
 
+# Web Development
+What is web development? Well, web development can be a number of jobs dealing with working on a web application. It could be working on a server or designing the look of a website. It could also be engineering an application. 
+
+There's the front-end, which could be working on design, layout or animations. There are also some front-end logic now with front-end frameworks. 
+
+There's also the back-end, which is working on server-side logic, database, security, server deployment, etc. 
+
+It is a huge field and there are many areas you could get into!
+
 # How The Internet Works
 Black magic. It's a mystery... just kidding. 
 The internet works because of a network. A network is a bunch of computers connected to each other. 
@@ -9,7 +18,7 @@ There are two types of computers that make up this network, clients and servers.
 
 Clients are usually devices or programs that you and I use everyday on a regular basis. Computers such as desktops and laptops. Smartphones and tablets can be included in this category. 
 
-Servers are computers as well, but their main function is the hold pages and application logic. When a user makes a request, the server will get what it was asked and send back a response. 
+Servers are computers as well, but their main function is to hold pages and application logic. When a user makes a request, the server will get what it was asked and send back a response. 
 
 # URL or Uniform Resource Locator
 The URL is essentially a reference point to where a resource is held. 
