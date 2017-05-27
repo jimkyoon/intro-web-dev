@@ -41,4 +41,4 @@ Some methods in jQuery can act differently.
 Getter methods grab elements that were called. Setter methods are methods that either add things to an element or changes them.
 
 # $(this)
-Now 
+Now say we want multiple elements to trigger an event. The long way to do it is to just trigger each one individually. Why do that? That just means more code and more writing. To get around this, jQuery allows us to use the keyword "this." The use of "this" allows us to select the specific element that triggers the event.
