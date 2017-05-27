@@ -39,4 +39,12 @@ The body tag is where the main contents of the website would be written. This is
 - form (<form> <input>) - forms are really important later on. this is a way where users can interact with the site. you have input tags where it can either be text based, buttons, drop down menus, tick boxes etc.
 
 # <div> id and class
-To make our HTML document more structured, we want to use <div> tags, which groups html tags based on certain reasons. Grouping up certain tags will help when working on it later. 
+To make our HTML document more structured, we want to use <div> tags, which groups html tags based on certain reasons. Grouping up certain tags will help when working on it later.
+
+ID's and classes are important too. These will be especially important once you get into CSS and JavaScript. They will sometimes depend on the use of targeting these ID's and classes.
+
+In a tag, you can set an ID or a class. To do this, you would put write it in the opening tag. For example: <div id="opener"></div>
+
+A rule you want to remember is that you can't have multiple ID's of the same name! Each ID must be unique!
+
+With class, you can multiple of them! Classes are one way to target multiple tags on the HTML document without having to repeat yourself.
