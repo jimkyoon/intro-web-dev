@@ -1,17 +1,37 @@
 *{
-  margin: 0px;
-  padding: 0px;
   font-family: sans-serif;
 }
 #container{
   margin: 0 auto;
   padding: 10px;
-  border: 10px solid black;
+  border: 5px solid black;
+  border-radius: 25px;
   width: 500px;
+  background-color: darkblue;
+}
+h1{
+  border: 3px solid black;
+  border-radius: 25px;
   background-color: lightgrey;
+  padding-left: 20px;
 }
 img{
   display: block;
   margin: auto;
   padding: 5px;
+  border: 3px solid black;
+  border-radius: 25px;
+}
+.contents{
+  margin: 5px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: white;
+}
+#hire{
+  background-color: lightgreen;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
 }
